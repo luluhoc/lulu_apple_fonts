@@ -6,7 +6,6 @@
 export { useFonts } from './useFonts';
 
 export const __metadata__: Any;
-export const Montserrat_100Thin: number;
 export const SF_Pro_Text_Ultralight: number;
 export const SF_Pro_Display_Bold: number;   
 export const SF_Pro_Display_Black: number;

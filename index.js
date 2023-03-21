@@ -5,20 +5,20 @@
 export { useFonts } from './useFonts';
 
 export { default as __metadata__ } from './metadata.json';
-export const SF_Pro_Text_Ultralight = require('./SF-Pro-Text-Ultralight.otf');
-export const SF_Pro_Display_Bold = require('./SF-Pro-Display-Bold.otf');
-export const SF_Pro_Display_Black = require('./SF-Pro-Display-Black.otf');
-export const SF_Pro_Display_Medium = require('./SF-Pro-Display-Medium.otf');
-export const SF_Pro_Rounded_Black = require('./SF-Pro-Rounded-Black.otf');
-export const SF_Pro_Rounded_Medium = require('./SF-Pro-Rounded-Medium.otf');
-export const SF_Pro_Text_Black = require('./SF-Pro-Text-Black.otf');
-export const SF_Pro_Text_Bold = require('./SF-Pro-Text-Bold.otf');
-export const SF_Pro_Text_Heavy = require('./SF-Pro-Text-Heavy.otf');
-export const SF_Pro_Text_Light = require('./SF-Pro-Text-Light.otf');
-export const SF_Pro_Text_LightItalic = require('./SF-Pro-Text-LightItalic.otf');
-export const SF_Pro_Text_Medium = require('./SF-Pro-Text-Medium.otf');
-export const SF_Pro_Text_Regular = require('./SF-Pro-Text-Regular.otf');
-export const SF_Pro_Text_Thin = require('./SF-Pro-Text-Thin.otf');
+export const SF_Pro_Text_Ultralight = require('./fonts/SF-Pro-Text-Ultralight.otf');
+export const SF_Pro_Display_Bold = require('./fonts/SF-Pro-Display-Bold.otf');
+export const SF_Pro_Display_Black = require('./fonts/SF-Pro-Display-Black.otf');
+export const SF_Pro_Display_Medium = require('./fonts/SF-Pro-Display-Medium.otf');
+export const SF_Pro_Rounded_Black = require('./fonts/SF-Pro-Rounded-Black.otf');
+export const SF_Pro_Rounded_Medium = require('./fonts/SF-Pro-Rounded-Medium.otf');
+export const SF_Pro_Text_Black = require('./fonts/SF-Pro-Text-Black.otf');
+export const SF_Pro_Text_Bold = require('./fonts/SF-Pro-Text-Bold.otf');
+export const SF_Pro_Text_Heavy = require('./fonts/SF-Pro-Text-Heavy.otf');
+export const SF_Pro_Text_Light = require('./fonts/SF-Pro-Text-Light.otf');
+export const SF_Pro_Text_LightItalic = require('./fonts/SF-Pro-Text-LightItalic.otf');
+export const SF_Pro_Text_Medium = require('./fonts/SF-Pro-Text-Medium.otf');
+export const SF_Pro_Text_Regular = require('./fonts/SF-Pro-Text-Regular.otf');
+export const SF_Pro_Text_Thin = require('./fonts/SF-Pro-Text-Thin.otf');
 
 
 
