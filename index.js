@@ -5,21 +5,20 @@
 export { useFonts } from './useFonts';
 
 export { default as __metadata__ } from './metadata.json';
-export const SF_Pro_Text_Ultralight = require('./SF_Pro_Text_Ultralight.otf');
-export const Montserrat_200ExtraLight = require('./Montserrat_200ExtraLight.ttf');
-export const Montserrat_300Light = require('./Montserrat_300Light.ttf');
-export const Montserrat_400Regular = require('./Montserrat_400Regular.ttf');
-export const Montserrat_500Medium = require('./Montserrat_500Medium.ttf');
-export const Montserrat_600SemiBold = require('./Montserrat_600SemiBold.ttf');
-export const Montserrat_700Bold = require('./Montserrat_700Bold.ttf');
-export const Montserrat_800ExtraBold = require('./Montserrat_800ExtraBold.ttf');
-export const Montserrat_900Black = require('./Montserrat_900Black.ttf');
-export const Montserrat_100Thin_Italic = require('./Montserrat_100Thin_Italic.ttf');
-export const Montserrat_200ExtraLight_Italic = require('./Montserrat_200ExtraLight_Italic.ttf');
-export const Montserrat_300Light_Italic = require('./Montserrat_300Light_Italic.ttf');
-export const Montserrat_400Regular_Italic = require('./Montserrat_400Regular_Italic.ttf');
-export const Montserrat_500Medium_Italic = require('./Montserrat_500Medium_Italic.ttf');
-export const Montserrat_600SemiBold_Italic = require('./Montserrat_600SemiBold_Italic.ttf');
-export const Montserrat_700Bold_Italic = require('./Montserrat_700Bold_Italic.ttf');
-export const Montserrat_800ExtraBold_Italic = require('./Montserrat_800ExtraBold_Italic.ttf');
-export const Montserrat_900Black_Italic = require('./Montserrat_900Black_Italic.ttf');
+export const SF_Pro_Text_Ultralight = require('./fonts/SF-Pro-Text-Ultralight.otf');
+export const SF_Pro_Display_Bold = require('./fonts/SF-Pro-Display-Bold.otf');
+export const SF_Pro_Display_Black = require('./fonts/SF-Pro-Display-Black.otf');
+export const SF_Pro_Display_Medium = require('./fonts/SF-Pro-Display-Medium.otf');
+export const SF_Pro_Rounded_Black = require('./fonts/SF-Pro-Rounded-Black.otf');
+export const SF_Pro_Rounded_Medium = require('./fonts/SF-Pro-Rounded-Medium.otf');
+export const SF_Pro_Text_Black = require('./fonts/SF-Pro-Text-Black.otf');
+export const SF_Pro_Text_Bold = require('./fonts/SF-Pro-Text-Bold.otf');
+export const SF_Pro_Text_Heavy = require('./fonts/SF-Pro-Text-Heavy.otf');
+export const SF_Pro_Text_Light = require('./fonts/SF-Pro-Text-Light.otf');
+export const SF_Pro_Text_LightItalic = require('./fonts/SF-Pro-Text-LightItalic.otf');
+export const SF_Pro_Text_Medium = require('./fonts/SF-Pro-Text-Medium.otf');
+export const SF_Pro_Text_Regular = require('./fonts/SF-Pro-Text-Regular.otf');
+export const SF_Pro_Text_Thin = require('./fonts/SF-Pro-Text-Thin.otf');
+
+
+
