@@ -1,11 +1,10 @@
 {
-  "name": "@expo-google-fonts/montserrat",
-  "version": "0.2.3",
-  "description": "Use the Montserrat font family from Google Fonts in your Expo app",
+  "name": "@lulu/sfpro",
+  "version": "0.1.0",
+  "description": "Use the SF PRO font family from Apple in your Expo app",
   "main": "index.js",
-  "repository": "https://github.com/expo/google-fonts.git",
-  "homepage": "https://github.com/expo/google-fonts/tree/master/font-packages/montserrat#readme",
-  "author": "Expo Team <team@expo.io>",
+  "repository": "https://github.com/luluhoc/lulu_apple_fonts.git",
+  "author": "luluhoc",
   "license": "MIT",
   "publishConfig": { "access": "public" }
 }
