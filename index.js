@@ -6,7 +6,7 @@ export { useFonts } from './useFonts';
 
 export { default as __metadata__ } from './metadata.json';
 export const SF_Pro_Text_Ultralight = require('./SF_Pro_Text_Ultralight.otf');
-export const Montserrat_200ExtraLight = require('./Montserrat_200ExtraLight.ttf');
+export const SF_Pro_D = require('./Montserrat_200ExtraLight.ttf');
 export const Montserrat_300Light = require('./Montserrat_300Light.ttf');
 export const Montserrat_400Regular = require('./Montserrat_400Regular.ttf');
 export const Montserrat_500Medium = require('./Montserrat_500Medium.ttf');
